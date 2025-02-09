@@ -1,6 +1,7 @@
 package ex_07_Increment_Decrement_Op;
 
 public class Lab_074_Task2 {
+
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
         // System.out.printf("9 x 1 = %d\n",number*1);
@@ -11,6 +12,14 @@ public class Lab_074_Task2 {
         System.out.println();
         System.out.printf("%dx10=%d",n,n*10).println();
     }
-
-
 }
+
+
+
+
+
+
+
+
+
+
