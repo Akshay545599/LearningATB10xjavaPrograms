@@ -1,6 +1,6 @@
 package ex_02_JavaBasics;
 
-public class  {
+public class Lab_017_Boolean {
     public static void main(String[] args) {
 
         boolean is_pramod_married = true;
