@@ -10,4 +10,14 @@ public class Lab_155 {
     }
 }
 
+class Student{
+    String name;
+    int roll;
+
+    void sleep(){}
+
+
+}
+
+
 
